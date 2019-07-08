@@ -1,6 +1,6 @@
 # hello-world
 
-Hello World
+Hi World
 
 - help
 - license
